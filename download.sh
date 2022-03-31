@@ -71,5 +71,5 @@ if [[ $1 -eq "get" ]]; then
   clear
   checkInternet
   getConfiguredClient
-  download https://github.com/duclee9x/digit-hmm-recognition/raw/master/record.zip
+  download https://github.com/duclee9x/digit-hmm-recognition/raw/master/raw_data.zip
 fi
